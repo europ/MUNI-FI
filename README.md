@@ -15,19 +15,22 @@
 * **[1st year](https://github.com/europ/MUNI-FI/tree/master/SSME/1st-year)** 2018/2019
 	* **[summer](https://github.com/europ/MUNI-FI/tree/master/SSME/1st-year/summer)**
 		* [KPM01](https://github.com/europ/MUNI-FI/tree/master/SSME/1st-year/summer/KPM01)
+			* [proj1](https://github.com/europ/MUNI-FI/tree/master/SSME/1st-year/summer/KPM01/proj1)
 		* IB005
 		* [PA152](https://github.com/europ/MUNI-FI/tree/master/SSME/1st-year/summer/PA152)
-			* [homework1](https://github.com/europ/MUNI-FI/tree/master/SSME/1st-year/summer/PA152/homework1) 4.8/5
-			* [homework2](https://github.com/europ/MUNI-FI/tree/master/SSME/1st-year/summer/PA152/homework2) 4.5/5
-			* [homework3](https://github.com/europ/MUNI-FI/tree/master/SSME/1st-year/summer/PA152/homework3) 5/5
+			* [proj1](https://github.com/europ/MUNI-FI/tree/master/SSME/1st-year/summer/PA152/homework1) 4.8/5
+			* [proj2](https://github.com/europ/MUNI-FI/tree/master/SSME/1st-year/summer/PA152/homework2) 4.5/5
+			* [proj3](https://github.com/europ/MUNI-FI/tree/master/SSME/1st-year/summer/PA152/homework3) 5/5
 		* PA179
 		* [PA181](https://github.com/europ/MUNI-FI/tree/master/SSME/1st-year/summer/PA181)
+			* [proj1](https://github.com/europ/MUNI-FI-PA181)
 		* PV120
 		* PV157
 		* PV194
 		* PV203
 		* PV206
-		* [PV215](https://github.com/europ/MUNI-FI/tree/master/SSME/1st-year/summer/PV215) 11/12
+		* [PV215](https://github.com/europ/MUNI-FI/tree/master/SSME/1st-year/summer/PV215)
+			* [proj1](https://github.com/europ/MUNI-FI-PV215) 11/12
 		* PV216
 
 ### Degree Programmes
