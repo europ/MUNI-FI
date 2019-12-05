@@ -32,6 +32,16 @@
 		* [PV215](https://github.com/europ/MUNI-FI/tree/master/SSME/1st-year/summer/PV215)
 			* [proj1](https://github.com/europ/MUNI-FI-PV215) 11/12
 		* PV216
+  * **[winter](https://github.com/europ/MUNI-FI/tree/master/SSME/1st-year/winter)**
+    * IV064
+    * PA116
+    * PA159
+    * PA185
+    * PA194
+    * [PA195](https://github.com/europ/MUNI-FI/tree/master/SSME/1st-year/winter/PA195)
+      * [proj1](https://github.com/europ/MUNI-FI-PA195)
+    * PV028
+    * PV249
 
 ### Degree Programmes
 * [SSME](#SSME-2019-)
@@ -45,6 +55,10 @@ Some of the projects were developed in separate repositories that can be found b
 | :-----: | ------------------------------------------------------------------------ |
 | PA181   | [github.com/europ/MUNI-FI-PA181](https://github.com/europ/MUNI-FI-PA181) |
 | PV215   | [github.com/europ/MUNI-FI-PV215](https://github.com/europ/MUNI-FI-PV215) |
+| IV064   | [github.com/europ/MUNI-FI-IV064](https://github.com/europ/MUNI-FI-IV064) |
+| PA185   | [github.com/europ/MUNI-FI-PA185](https://github.com/europ/MUNI-FI-PA185) |
+| PA195   | [github.com/europ/MUNI-FI-PA195](https://github.com/europ/MUNI-FI-PA195) |
+| PV249   | [github.com/europ/MUNI-FI-PV249](https://github.com/europ/MUNI-FI-PV249) |
 
 ### Study materials
 Some of study materials were created for exams using Overleaf.

@@ -4,3 +4,6 @@
 [submodule "SSME/1st-year/summer/PV215/pv215"]
 	path = SSME/1st-year/summer/PV215/pv215
 	url = https://github.com/europ/MUNI-FI-PV215
+[submodule "SSME/1st-year/winter/PA195/pa195"]
+	path = SSME/1st-year/winter/PA195/pa195
+	url = https://github.com/europ/MUNI-FI-PA195.git
