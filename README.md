@@ -33,7 +33,9 @@
 			* [proj1](https://github.com/europ/MUNI-FI-PV215) 11/12
 		* PV216
   * **[winter](https://github.com/europ/MUNI-FI/tree/master/SSME/1st-year/winter)**
-    * IV064
+    * [IV064](https://github.com/europ/MUNI-FI/tree/master/SSME/1st-year/winter/IV064)
+      * [proj1](https://github.com/europ/MUNI-FI-IV064)
+      * [proj2](https://github.com/europ/MUNI-FI-IV064)
     * PA116
     * PA159
     * PA185
