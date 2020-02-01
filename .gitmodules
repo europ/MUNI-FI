@@ -10,3 +10,6 @@
 [submodule "SSME/1st-year/winter/IV064/iv064"]
 	path = SSME/1st-year/winter/IV064/iv064
 	url = https://github.com/europ/MUNI-FI-IV064.git
+[submodule "SSME/1st-year/winter/PV249/pv249"]
+	path = SSME/1st-year/winter/PV249/pv249
+	url = https://github.com/europ/MUNI-FI-PV249.git

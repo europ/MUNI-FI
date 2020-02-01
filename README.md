@@ -43,7 +43,10 @@
     * [PA195](https://github.com/europ/MUNI-FI/tree/master/SSME/1st-year/winter/PA195)
       * [proj1](https://github.com/europ/MUNI-FI-PA195)
     * PV028
-    * PV249
+    * [PV249](https://github.com/europ/MUNI-FI/tree/master/SSME/1st-year/winter/PV249)
+      * [proj1](https://github.com/europ/MUNI-FI-PV249)
+      * [proj2](https://github.com/europ/MUNI-FI-PV249)
+      * [proj3](https://github.com/europ/MUNI-FI-PV249)
 
 ### Degree Programmes
 * [SSME](#SSME-2019-)
